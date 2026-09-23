@@ -8,6 +8,7 @@ Author: Ronald Huereca
 Author URI: https://github.com/ronalfy/reorder-terms
 Text Domain: reorder-terms
 Domain Path: /languages
+Requires Plugins: metronet-reorder-posts
 */
 /**
  * Reorder Post by Term
