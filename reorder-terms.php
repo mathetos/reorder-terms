@@ -1,11 +1,13 @@
 <?php
 /*
 Plugin Name: Reorder Terms
-Plugin URI: https://wordpress.org/plugins/reorder-terms/
+Plugin URI: https://mattc.link/reorder-terms
 Description: Reorder Terms
 Version: 1.1.1
-Author: Ronald Huereca
-Author URI: https://github.com/ronalfy/reorder-terms
+Requires at least: 6.5
+Requires PHP: 7.2
+Author: Roots & Fruit
+Author URI: https://mattc.link/reorder-terms
 Text Domain: reorder-terms
 Domain Path: /languages
 Requires Plugins: metronet-reorder-posts
