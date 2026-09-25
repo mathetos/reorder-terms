@@ -3,7 +3,7 @@ Contributors: webdevmattcrom
 Author URI: https://mattc.link/reorder-terms
 Plugin URL: https://wordpress.org/plugins/reorder-terms/
 Requires at Least: 6.5
-Tested up to: 7.0
+Tested up to: 7.1
 Tags: reorder, reorder terms
 Stable tag: trunk
 License: GPLv3 or later
